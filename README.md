@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chandu-0214
-- 👀 I’m interested in Data Science
+- 👀 I’m Front-End Developer.!
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on React Js
+- 💞️ I’m looking to collaborate on React Js and Next Js
 - 📫 How to reach me ncr02141997@gmail.com
 
 <!---
